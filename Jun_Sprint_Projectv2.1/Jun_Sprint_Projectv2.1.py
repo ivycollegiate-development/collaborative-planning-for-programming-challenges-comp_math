@@ -12,3 +12,4 @@ if __name__ == '__main__':
         pound_kg()
     else:
         print("Please pick one between option 1 and option 2.")
+        print_menu()
